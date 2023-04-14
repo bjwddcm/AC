@@ -11,9 +11,11 @@
             "id": "e5d5032c2dca5382",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "课本/万良自动控制原理第三版习题解答.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -41,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chap1/习题.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chap1/习题.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chap1/习题.md"
+                "file": "README.md"
               }
             }
           }
@@ -170,8 +171,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d863420f3d313f69",
+  "active": "e5d5032c2dca5382",
   "lastOpenFiles": [
+    "课本/万良自动控制原理第三版习题解答.pdf",
     "课本/胡寿松《自动控制原理》 讲义.pdf",
     "课本/胡寿松《课后习题》答案.pdf",
     "课本/《自动控制原理》[卢京潮 编著] 2013年版.pdf",
@@ -179,7 +181,6 @@
     "新建文件夹",
     "Chap1/第一章.md",
     "Chap1/习题.md",
-    "Chap1",
-    "课本/万良自动控制原理第三版习题解答.pdf"
+    "Chap1"
   ]
 }
